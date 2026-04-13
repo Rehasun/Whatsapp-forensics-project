@@ -1,0 +1,16 @@
+Scenario C:
+
+cd6a2b5f58b7ce6815ffb48f3117b03bf757b025aa76f9dc6f9fea885517a51e C:\evidence_C\after\WhatsApp\Databases\msgstore-2026-04-08.1.db.crypt14 94f1f3846d0992902e25fa017dbcab04dfda7b5446bc72f1202b824bcd4a21c8 C:\evidence_C\after\WhatsApp\Databases\msgstore.db.crypt14
+
+Scenario D:
+
+94f1f3846d0992902e25fa017dbcab04dfda7b5446bc72f1202b824bcd4a21c8 C:\evidence_D\after_backup\WhatsApp\Databases\msgstore-2026-04-08.1.db.crypt14
+a7cf796508d75e0d3d415d0db41e6059890d60a18b80fa06700bad945ef76491 C:\evidence_D\after_backup\WhatsApp\Databases\msgstore.db.crypt14
+
+Scenario E:
+
+a7cf796508d75e0d3d415d0db41e6059890d60a18b80fa06700bad945ef76491 C:\evidence_E\after_restore\WhatsApp\Databases\msgstore.db.crypt14
+
+Scenario F:
+
+a7cf796508d75e0d3d415d0db41e6059890d60a18b80fa06700bad945ef76491 C:\evidence_F\after\WhatsApp\Databases\msgstore.db.crypt14
